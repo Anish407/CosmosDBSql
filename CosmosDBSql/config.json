@@ -1,0 +1,8 @@
+{
+  "Cosmos": {
+    "ContainerName": "democon",
+    "DbName": "demodb",
+    "Account": "",
+    "Key": ""
+  }
+}
